@@ -11,5 +11,6 @@ version = res.substring(0, 3);
 var versions = {
     "Flutter version is": version
 };
+
 console.log(JSON.stringify(versions));
 });
